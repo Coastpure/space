@@ -1,7 +1,14 @@
- npm run taiwind
+to start website, run
+npm run taiwind
+
+
+
+
 
 navbar icon
 visit
 https://unicode-table.com/en/, search hamburger
 click on Trigram for Heaven,  copy html code HTML-code	&#9776; 
 paste it inside button tags 
+
+Tutorial 1 done
